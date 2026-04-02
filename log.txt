@@ -1,0 +1,5 @@
+[2025-10-23 09:10:33] INFO: System started
+[2025-10-23 09:11:02] WARNING: Low disk space
+[2025-10-23 09:12:45] ERROR: Database connection failed
+[2025-10-23 09:13:10] INFO: Retry successful
+[2025-10-23 09:15:01] ERROR: File not found
